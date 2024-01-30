@@ -2,7 +2,7 @@
 ---
 ## Shop With SQLite3(main.py)
 
-[!Note]  
+[!Note]\
 This is a shop program that execute in terminal.
 
 [!IMPORTANT]
