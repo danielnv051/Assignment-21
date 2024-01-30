@@ -5,7 +5,7 @@
 [!NOTE]  
 This is a shop program that execute in terminal.
 
-[!IMPORTANT]
+[!IMPORTANT]\
 This program CREATE, READ, UPDATE and DELETE (CRUD) products in database by using SQLite3.
 
 ![shop program](./1.JPG)
