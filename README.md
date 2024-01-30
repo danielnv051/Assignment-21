@@ -2,7 +2,7 @@
 ---
 ## Shop With SQLite3(main.py)
 
-[!Note]\
+[!NOTE]\
 This is a shop program that execute in terminal.
 
 [!IMPORTANT]
@@ -13,7 +13,7 @@ This program CREATE, READ, UPDATE and DELETE (CRUD) products in database by usin
 ---
 ## Music maker
 
-[!NOTE]
+[!NOTE]<br>
 This program making music by PySynth library.
 
 [!IMPORTANT]
