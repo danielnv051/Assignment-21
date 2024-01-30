@@ -27,5 +27,6 @@ wirte notes in the form of tuples.first member is note name like: "C" for 'do', 
         ('d', 6),('e', 6),('d', 6),('e', 6),('c', 3),
         ('c', 6),('d', 6),('c', 6),('d', 6),('c', 3),
         ('g', 6),('f', 6),('e', 6),('f', 6),('e', 3))`
+<br>
 3.use `make_wav(song, fn = "song.wav", leg_stac = .7, bpm = 180)` to make ouutput wav file.
 ![PySynth](./2.JPG)
