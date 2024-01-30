@@ -1,8 +1,8 @@
 # Assignment-21
 ---
 ## Shop With SQLite3(main.py)
-[!NOTE]  
-This is a shop program that execute in terminal.
+> [!NOTE]
+> This is a shop program that execute in terminal.
 [!IMPORTANT]  
 This program CREATE, READ, UPDATE and DELETE (CRUD) products in database by using SQLite3.
 
