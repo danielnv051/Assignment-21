@@ -2,11 +2,12 @@
 ---
 ## Shop With SQLite3(main.py)
 
-[!note]
-This is a shop program that execute in terminal.
+[!NOTE]
+ This is a shop program that execute in terminal.
 
 [!IMPORTANT]
-This program CREATE, READ, UPDATE and DELETE (CRUD) products in database by using SQLite3.
+ This program CREATE, READ, UPDATE and DELETE (CRUD) products in database by using SQLite3.
+
 ![shop program](./1.JPG)
 
 ---
