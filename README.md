@@ -18,15 +18,14 @@ This program making music by PySynth library.
 wirte notes in the form of tuples.first member is note name like: "C" for 'do', "D" for 're', "E" for 'mi', "F" for 'fa', "G" for 'sol', "A" for 'la', "B" for 'si' and second member is note duration like 'Harp note' and export a WAV file.
 
 > **How to use**
-1. first `import pysynth_b`
-2. write note, for example : 
+> 1. first `import pysynth_b`
+> 2. write note, for example : 
 `song = (('c', 6),('d', 6),('e', 6),('e', 6),
         ('e', 6),('e', 6),('e', 6),('g', 6),('e', 3),
         ('e', 6),('g', 6),('e', 6), ('g', 6),('e', 3),
         ('e', 6),('f', 6),('d', 6),('e', 6),('c', 3),
         ('d', 6),('e', 6),('d', 6),('e', 6),('c', 3),
         ('c', 6),('d', 6),('c', 6),('d', 6),('c', 3),
-        ('g', 6),('f', 6),('e', 6),('f', 6),('e', 3))`
-<br>
-3.use `make_wav(song, fn = "song.wav", leg_stac = .7, bpm = 180)` to make ouutput wav file.
+        ('g', 6),('f', 6),('e', 6),('f', 6),('e', 3))`<br>
+> 3.use `make_wav(song, fn = "song.wav", leg_stac = .7, bpm = 180)` to make ouutput wav file.
 ![PySynth](./2.JPG)
